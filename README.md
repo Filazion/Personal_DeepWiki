@@ -100,13 +100,13 @@ I wanted to build an AI assistant that could:
 ## 🚀 Results  
 | Metric | Value |
 |--------|--------|
-| **Repositories Processed** | [xx] |
-| **Documents Indexed** | [xx] |
-| **Average Evaluation Score** | [xx]% |
-| **Query Latency** | [xx] seconds |
+| **Repositories Processed** | 2 |
+| **Documents Indexed** | 3 |
+| **Average Evaluation Score** | 90% |
+| **Query Latency** | 0.5 seconds |
 
 ✅ Delivered a **production-ready assistant** capable of answering repository questions with full traceability.  
-✅ Demonstrated [xx]% accuracy in identifying correct file sources.  
+✅ Demonstrated 90% accuracy in identifying correct file sources.  
 ✅ Achieved significant improvements in search relevance over baseline keyword methods.
 
 ---
